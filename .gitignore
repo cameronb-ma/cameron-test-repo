@@ -1,1 +1,11 @@
+#IDE configurations
 .idea/
+
+#File generated using pyenv
+.python-version
+
+#Pytest cache
+utilities/tests/.pytest_cache
+
+# Byte-compiled / optimized / DLL files
+**/__pycache__/
